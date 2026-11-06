@@ -136,3 +136,7 @@ Other candidates (14.2-15 mm loose dynamic drivers, 16-32 ohm, 105 dB or more) i
 - Search terms: "14.2mm earphone driver 32 ohm", "15.4mm earbud driver unit"
 
 After any new driver arrives, measure diameter and thickness, then update `DRIVER_D`, `DRIVER_METAL_T` and `FOAM_T` and re-run the script.
+
+## License
+
+MIT. See [LICENSE](LICENSE). Scripts, STL files and photos are covered, so you can use, modify and share them, and the copyright notice must be kept.
