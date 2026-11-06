@@ -7,7 +7,7 @@
 | ![Printed case with the orange cable reel](photos/earbuds-1.jpg) | ![Case open from above](photos/earbuds-2.jpg) |
 | ![Wearing one earphone](photos/earbuds-3.jpg) | ![A white printed version of the case](photos/earbuds-4.jpg) |
 
-*Photos: the printed pocket case with its cable reel, one earphone worn, and a white printed case. Sound quality has not been measured yet.*
+*Photos: the printed pocket case with its cable reel, one earphone worn, and a white printed case. The sound test worked; loudness and frequency response have not been measured yet.*
 
 Open-ear clip earbuds built around a salvaged wired-earphone driver (from an Ambrane Stringz 02). The egg-shaped pod sits in front of the ear canal with the grille angled toward it, a C-shaped arm goes over the ear, and a ball at the end rests behind it. The driver's original cable stays attached (no re-soldering).
 
@@ -117,7 +117,7 @@ Checked on the exported meshes: cavity 15.0 mm wide (radius 7.5), cavity z 0.8 t
 5. The cap kept a gap: the clamp ring only left room for a 3.2 mm driver. Measured the metal can at 6.6 mm (plus about 0.8 mm foam), so the shell is now derived from the driver thickness (11.3 mm deep, was 8).
 6. The right pod pointed forward instead of into the ear. The right print was an older run: the script had only been run with `SIDE = 1` (left). Regenerated with `SIDE = -1`.
 7. Replaced the flat disc with an egg-shaped pod. Right ear egg printed: pod sits in front of the canal, aimed at it, and the cap fits well.
-8. Not yet tested: the left egg shell, and sound quality / volume with the cap sealed.
+8. Sound test: it works with the cap sealed. Not yet tested: the left egg shell, and measured loudness and frequency response.
 
 ## Next
 
